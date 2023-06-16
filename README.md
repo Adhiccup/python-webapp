@@ -20,7 +20,6 @@ The daily incremental source code of the actual combat chapter is in the branch 
 
 <table>
   <tr>
-    
     <td align="center"><a href="https://github.com/Arjita-Basu"><img src="https://avatars1.githubusercontent.com/u/50270580?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Arjita Basu</b></sub></a><br /></td> 
   </tr>
 </table>
