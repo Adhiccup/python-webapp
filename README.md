@@ -12,3 +12,15 @@ The sample website is hosted by [Sina AppEngine](http://sae.sina.com.cn/).
 To download the source code, get the source code directly through Git.
 
 The daily incremental source code of the actual combat chapter is in the branch "day-xx".
+
+
+
+
+## 👨‍💻 Contributors ✨
+
+<table>
+  <tr>
+    
+    <td align="center"><a href="https://github.com/Arjita-Basu"><img src="https://avatars1.githubusercontent.com/u/50270580?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Arjita Basu</b></sub></a><br /></td> 
+  </tr>
+</table>
